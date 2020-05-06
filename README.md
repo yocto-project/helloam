@@ -1,0 +1,2 @@
+# helloam
+helloworld using automake 
